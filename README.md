@@ -1,2 +1,1 @@
-# Import DataSET and preparing data
-Pre-processing data for Music Genre classification: GTZAN DATASET
+LINK to GTZAN Dataset: https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification
